@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552212660985.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3045448213",
+    "id" : "4974EA4E",
+    "lastKnownWriteTime" : 1552212727,
+    "last_content_update" : 1552212727691,
+    "path" : "~/GitHub/my-practice/my ptactice.Rmd",
+    "project_path" : "my ptactice.Rmd",
+    "properties" : {
+        "cursorPosition" : "3,12",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
